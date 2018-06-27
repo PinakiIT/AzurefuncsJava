@@ -1,2 +1,3 @@
-# AzurefuncsJava
-A basic MVP of Azure functions in Java with CosmosDB CRUD,and Azure blob storage
+# Azurefuncs Java
+A basic MVP of Azure functions in Java with CosmosDB CRUD,and Azure blob storage.
+Comng soon...
